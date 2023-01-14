@@ -6,16 +6,8 @@ title: "Get involved"
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## This is how you can contact us
+## This is how you can contact me
 
-### For schools
+Email: jo.saul.14@ucl.ac.uk
 
-<a>www.lilac-lab.org</a>
-
-### For families
-
-Telephone: xxxxx
-
-### For practitioners
-
-Email xxxxx
+twitter: josaul14
