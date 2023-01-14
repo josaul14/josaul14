@@ -1,7 +1,7 @@
 name: "Jo Saul"
 title: "Personal Website"
 description: |
-  About me and my project!
+  All about me and my project!
 output_dir: "docs"
 navbar:
   search: true
