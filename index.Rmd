@@ -1,0 +1,13 @@
+---
+title: "About Me"
+description: |
+  Welcome to the website!
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+![Dr Jo Saul](images/profile.jpg){width=25%}

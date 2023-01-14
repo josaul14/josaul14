@@ -1,0 +1,32 @@
+name: "Jo Saul"
+title: "Personal Website"
+description: |
+  About me and my project!
+output_dir: "docs"
+navbar:
+  search: true
+  logo:
+    image: images/profile.jpg
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Get involved"
+      href: get-involved.html
+    - text: "News"
+      href: news.html
+    - text: "Readings"
+      menu:
+        - text: "Readings1"
+          href: readings-module1.html
+        - text: "Readings2"
+          href: readings-module2.html
+        - text: "---"
+        - text: "Readings3"
+          href: readings-module3.html
+output: 
+  distill::distill_article:
+    css: styles.css
+
+#can also do navbar-left

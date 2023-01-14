@@ -1,0 +1,25 @@
+---
+title: "Readings Module 1"
+description: |
+  Some additional details about the website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Text book
+
+### Ch1
+
+afjdskfjklsdjlkas
+
+
+### Ch2
+
+
+fdaaajsdlk
+
+## Articles
+
+vgjhhlh
