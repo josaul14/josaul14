@@ -1,0 +1,35 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\nHere are some more details\nexample 1\nexample 2\nexample 3\n\n\n\n",
+      "last_modified": "2023-01-14T18:39:12+00:00"
+    },
+    {
+      "path": "index.html",
+      "title": "About Me",
+      "description": "Welcome to my website!\n",
+      "author": [],
+      "contents": "\nDr Jo Saul\n\n\n",
+      "last_modified": "2023-01-14T18:43:00+00:00"
+    },
+    {
+      "path": "news.html",
+      "title": "News",
+      "description": "A new article created using the Distill format.\n",
+      "author": [
+        {
+          "name": "Jo Saul",
+          "url": "https://github.com/josaul14"
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
+      "last_modified": "2023-01-14T18:43:00+00:00"
+    }
+  ],
+  "collections": []
+}
