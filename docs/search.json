@@ -14,7 +14,7 @@
       "description": "Welcome to my website!\n",
       "author": [],
       "contents": "\nDr Jo Saul\n\n\n",
-      "last_modified": "2023-01-14T18:43:00+00:00"
+      "last_modified": "2023-01-14T18:45:58+00:00"
     },
     {
       "path": "news.html",
@@ -28,7 +28,7 @@
       ],
       "date": "`r Sys.Date()`",
       "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2023-01-14T18:43:00+00:00"
+      "last_modified": "2023-01-14T18:46:18+00:00"
     }
   ],
   "collections": []
