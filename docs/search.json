@@ -6,15 +6,15 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\nHere are some more details\nexample 1\nexample 2\nexample 3\n\n\n\n",
-      "last_modified": "2023-01-14T18:39:12+00:00"
+      "last_modified": "2023-05-05T13:04:20+01:00"
     },
     {
       "path": "index.html",
-      "title": "About Me",
-      "description": "Welcome to my website!\n",
+      "title": "ISLaND Lab",
+      "description": "Welcome to the website for the ISLaND Lab!\n",
       "author": [],
-      "contents": "\nDr Jo Saul\n\n\n",
-      "last_modified": "2023-01-14T18:47:58+00:00"
+      "contents": "\nWhat is Project ISLaND?\nThis project will investigate the prevalence and significance of speech-motor planning difficulties in autism, and how they relate to expressive language development. This will help us understand why some autistic people have difficulty acquiring oral communication skills, and how best to support them.\nThis work is supported by a Dorothy Hodgkin Research Fellowship awarded to Dr Jo Saul in November 2022: link here.\n\nElucidating mechanisms of language growth in minimally verbal autistic individuals\nLanguage is a uniquely human achievement which most young children accomplish with ease. However, an estimated 25% of autistic people never develop spoken language, remaining minimally verbal or non-speaking. I want to robustly test theories about mechanisms underpinning these individual differences.\nEmerging research hypothesises that speech-motor planning deficits (apraxia) may form an additional barrier to oral communication for some autistic people. I will test this by establishing a large cohort of minimally verbal autistic children (aged 4-12 years), tracking their abilities to use speech as well as alternative forms of communication over the course of 3 years. Taking an inclusive transdiagnostic approach, it will include children regardless of their diagnostic status and any co-occurring conditions.\nI will harness parent-gathered data using technology (e.g. smartphones, wearable devices), to maximise participation and obtain a realistic picture of everyday language use. Later phases of the project will use an app to train speech production directly and assess the impact of improved speech on expressive language and broader communication as well as trialling support that aims to maximise use of augmentative and alternative communication forms.\n\n\n\n",
+      "last_modified": "2023-05-05T13:14:54+01:00"
     },
     {
       "path": "news.html",
@@ -28,7 +28,7 @@
       ],
       "date": "`r Sys.Date()`",
       "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2023-01-14T18:47:58+00:00"
+      "last_modified": "2023-05-05T13:15:10+01:00"
     },
     {
       "path": "readings-module1.html",
@@ -36,7 +36,7 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\nText book\nCh1\nafjdskfjklsdjlkas\nCh2\nfdaaajsdlk\nArticles\nvgjhhlh\n\n\n\n",
-      "last_modified": "2023-01-14T18:47:35+00:00"
+      "last_modified": "2023-05-05T13:04:20+01:00"
     },
     {
       "path": "readings-module2.html",
@@ -44,7 +44,7 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2023-01-14T18:47:42+00:00"
+      "last_modified": "2023-05-05T13:04:20+01:00"
     },
     {
       "path": "readings-module3.html",
@@ -52,7 +52,7 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2023-01-14T18:47:47+00:00"
+      "last_modified": "2023-05-05T13:04:20+01:00"
     }
   ],
   "collections": []
