@@ -1,12 +1,18 @@
 ---
 title: "Get involved"
+output:
+  html_document:
+    toc: true
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
+#change block to flex to have side by side
 ```
 
-<div>
+:::: {style="display: block;"}  
+
+::: {style="display: block;"}
 ## Participate in Research
 
 ### Join the steering committee
@@ -19,10 +25,10 @@ If you are the parent/caregiver of a minimally verbal / non-speaking person and 
 
 Also feel free to sign up to the list if you are a school, clinic or charity with interest in my research.
 
-</div>
 
-<div>
+:::
 
+::: {style="display: block;"}
 ## Join the research team
 
 **POST-DOCTORAL FELLOWSHIP POSITION WILL BE ANNOUNCED SOON! Watch this space...**
@@ -45,7 +51,9 @@ Supervision of PhD students is possible subject to funding. Where fully-funded p
 
 If you are interested in completing a PhD in the lab, please email Jo with your CV, estimated start date and a brief research proposal.
 
-</div>
+:::
+
+::::
 
 ## Contact details
 
