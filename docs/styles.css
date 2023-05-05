@@ -1,17 +1,19 @@
 
 /* --------------logo-------------------- */
 .distill-site-header .logo img{
-  max-height: 80px; /* Makes logo bigger, default was 20px */
+    width:100%;
+    height:100%;
+    margin:auto auto; /* max-height: 50px; Makes logo bigger, default was 20px */
 }
 
 
 /* --------------Navbar-------------------- */
 
 .distill-site-header {
-  padding: 0px 0px;
+  padding: 0px 0px 0px 0px;
   background-color: teal;
-  title-size: 30px;    
-  text-size: 25px;
+  title-size: 80px;    
+  text-size: 40px;
 }
 
 

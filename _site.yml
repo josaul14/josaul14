@@ -4,8 +4,7 @@ description: |
   All about our Lab!
 output_dir: "docs"
 navbar:
-  logo:
-    image: images/ISLaND.png
+
   right:
     - text: "Home"
       href: index.html
@@ -22,6 +21,9 @@ output:
 #can also do navbar-left
 
 #search: true
+
+  # logo:
+  #   image: images/ISLaND.png
 
     # - text: "Readings"
     #   menu:
