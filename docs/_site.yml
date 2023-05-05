@@ -1,7 +1,7 @@
 name: "Jo Saul"
 title: "ISLaND Lab"
 description: |
-  All about me and my project!
+  All about our lab!
 output_dir: "docs"
 navbar:
   search: true
@@ -14,17 +14,9 @@ navbar:
       href: about.html
     - text: "Get involved"
       href: get-involved.html
-    - text: "research environment"
+    - text: "Research Environment"
       href: research-environment.html
-    - text: "Readings"
-      menu:
-        - text: "Readings1"
-          href: readings-module1.html
-        - text: "Readings2"
-          href: readings-module2.html
-        - text: "---"
-        - text: "Readings3"
-          href: readings-module3.html
+
 output: 
   distill::distill_article:
     css: styles.css
