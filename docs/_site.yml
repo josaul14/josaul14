@@ -1,12 +1,12 @@
 name: "Jo Saul"
-title: "Personal Website"
+title: "ISLaND Lab"
 description: |
   All about me and my project!
 output_dir: "docs"
 navbar:
   search: true
   logo:
-    image: images/profile.jpg
+    image: images/ISLaND.png
   right:
     - text: "Home"
       href: index.html
@@ -14,8 +14,8 @@ navbar:
       href: about.html
     - text: "Get involved"
       href: get-involved.html
-    - text: "News"
-      href: news.html
+    - text: "research environment"
+      href: research-environment.html
     - text: "Readings"
       menu:
         - text: "Readings1"
