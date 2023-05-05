@@ -6,6 +6,7 @@ title: "Get involved"
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+<div>
 ## Participate in Research
 
 ### Join the steering committee
@@ -18,9 +19,13 @@ If you are the parent/caregiver of a minimally verbal / non-speaking person and 
 
 Also feel free to sign up to the list if you are a school, clinic or charity with interest in my research.
 
+</div>
+
+<div>
+
 ## Join the research team
 
-POST-DOCTORAL FELLOWSHIP POSITION WILL BE ANNOUNCED SOON! Watch this space...
+**POST-DOCTORAL FELLOWSHIP POSITION WILL BE ANNOUNCED SOON! Watch this space...**
 
 ### Placement opportunities for UCL Students
 
@@ -39,6 +44,8 @@ If you are interested in applying for a postdoctoral fellowship and are looking 
 Supervision of PhD students is possible subject to funding. Where fully-funded places are not already available, the student may have to compete for funding at UCL, or seek financial support from elsewhere.
 
 If you are interested in completing a PhD in the lab, please email Jo with your CV, estimated start date and a brief research proposal.
+
+</div>
 
 ## Contact details
 

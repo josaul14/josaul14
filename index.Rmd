@@ -1,7 +1,5 @@
 ---
 title: "ISLaND Lab"
-description: |
-  Welcome to the website for the ISLaND Lab!
 site: distill::distill_website
 ---
 
