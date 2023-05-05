@@ -1,7 +1,7 @@
 name: "ISLaND"
 title: "ISLaND Lab"
 description: |
-  All about ISLaND Lab!
+  All about our Lab!
 output_dir: "docs"
 navbar:
   search: true
