@@ -1,32 +1,33 @@
-name: "Jo Saul"
-title: "Personal Website"
+name: "ISLaND"
+title: "ISLaND Lab"
 description: |
-  All about me and my project!
+  All about ISLaND Lab!
 output_dir: "docs"
 navbar:
   search: true
   logo:
-    image: images/profile.jpg
+    image: images/ISLaND.png
   right:
     - text: "Home"
       href: index.html
-    - text: "About"
+    - text: "Meet the team"
       href: about.html
     - text: "Get involved"
       href: get-involved.html
-    - text: "News"
-      href: news.html
-    - text: "Readings"
-      menu:
-        - text: "Readings1"
-          href: readings-module1.html
-        - text: "Readings2"
-          href: readings-module2.html
-        - text: "---"
-        - text: "Readings3"
-          href: readings-module3.html
+    - text: "Research environment"
+      href: research-environment.html
 output: 
   distill::distill_article:
     css: styles.css
 
 #can also do navbar-left
+
+    # - text: "Readings"
+    #   menu:
+    #     - text: "Readings1"
+    #       href: readings-module1.html
+    #     - text: "Readings2"
+    #       href: readings-module2.html
+    #     - text: "---"
+    #     - text: "Readings3"
+    #       href: readings-module3.html
