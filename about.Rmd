@@ -1,17 +1,29 @@
 ---
-title: "About this site"
+title: "Meet the Team"
 description: |
-  Some additional details about the website
+  who we are
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Here are some more details
+## Dr Jo Saul
 
-* example 1
+Dr Jo Saul is the leader of the ISLaND Lab and a Dorothy Hodgkin Research Fellow. She completed her PhD at UCL in 2020, supervised by Professor Courtenay Norbury in UCL's Department of Language and Cognition.
 
-* example 2
+Jo is a member of [the LiLaC lab](http://www.lilac-lab.org/).
 
-* example 3
+![](images/Profile.jpg){width=50%}
+
+View Jo's CV [here](other/CV_web.pdf)
+
+View her Google Scholar profile [here](https://scholar.google.com/citations?view_op=list_works&hl=en&user=lOhuIhkAAAAJ).
+
+## Cassie Wong
+
+Cassie is completing a Summer internship in the ISLaND lab. She is a 3rd Year BSc/MSci student who completed her dissertation using data from Jo's PhD this year.
+
+## Join us!
+
+We hope to grow the lab steadily over the next few years - head to 'Get involved' to find out about potential opportunities to join us or collaborate.
