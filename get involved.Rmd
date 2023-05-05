@@ -6,8 +6,42 @@ title: "Get involved"
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## This is how you can contact me
+## Participate in Research
+
+### Join the steering committee
+
+I am building a steering group to provide input into each stage of my research programme. Please contact me if you would like to get involved!
+
+### Join the mailing list
+
+If you are the parent/caregiver of a minimally verbal / non-speaking person and are interested in taking part in this research, email me to sign up to a mailing list so that we can keep you updated (recruitment is not yet open!). 
+
+Also feel free to sign up to the list if you are a school, clinic or charity with interest in my research.
+
+## Join the research team
+
+POST-DOCTORAL FELLOWSHIP POSITION WILL BE ANNOUNCED SOON! Watch this space...
+
+### Placement opportunities for UCL Students
+
+Undergraduate and MSc students at UCL may wish to participate in a research placement during their studies. Please get in touch with Jo, including a CV and a statement of your research interests.
+
+### Visiting students and researchers
+
+Jo is able to host students from other institutions for short research visits or placements. If you are interested please get in touch with your CV, details of the placement required (duration, timing) and a brief research proposal.
+
+### Postdoctoral Fellowships
+
+If you are interested in applying for a postdoctoral fellowship and are looking for a host institution and mentor, then please get in touch with some information about the target scheme and timeline, as well as a brief outline for a research proposal.
+
+### PhD Studentships
+
+Supervision of PhD students is possible subject to funding. Where fully-funded places are not already available, the student may have to compete for funding at UCL, or seek financial support from elsewhere.
+
+If you are interested in completing a PhD in the lab, please email Jo with your CV, estimated start date and a brief research proposal.
+
+## Contact details
 
 Email: jo.saul.14@ucl.ac.uk
 
-twitter: josaul14
+twitter: @josaul14
