@@ -5,14 +5,14 @@
       "title": "Meet the Team",
       "author": [],
       "contents": "\nDr Jo Saul\nDr Jo Saul is the leader of the ISLaND Lab and a Dorothy Hodgkin Research Fellow. She completed her PhD at UCL in 2020, supervised by Professor Courtenay Norbury in UCL’s Department of Language and Cognition.\nJo is a member of the LiLaC lab.\n\nView Jo’s CV here\nView her Google Scholar profile here.\nCassie Wong\nCassie is completing a Summer internship in the ISLaND lab. She is a 3rd Year BSc/MSci student who completed her dissertation using data from Jo’s PhD this year.\nJoin us!\nWe hope to grow the lab steadily over the next few years - head to Get involved to find out about potential opportunities to join us or collaborate.\n\n\n\n",
-      "last_modified": "2023-05-05T16:18:08+01:00"
+      "last_modified": "2023-05-05T16:33:56+01:00"
     },
     {
       "path": "index.html",
       "title": "ISLaND Lab",
       "author": [],
       "contents": "\nWhat is Project ISLaND?\nThis project will investigate the prevalence and significance of speech-motor planning difficulties in autism, and how they relate to expressive language development. This will help us understand why some autistic people have difficulty acquiring oral communication skills, and how best to support them.\nThis work is supported by a Dorothy Hodgkin Research Fellowship awarded to Dr Jo Saul in November 2022: link here.\n\nElucidating mechanisms of language growth in minimally verbal autistic individuals\nLanguage is a uniquely human achievement which most young children accomplish with ease. However, an estimated 25% of autistic people never develop spoken language, remaining minimally verbal or non-speaking. I want to robustly test theories about mechanisms underpinning these individual differences.\nEmerging research hypothesises that speech-motor planning deficits (apraxia) may form an additional barrier to oral communication for some autistic people. I will test this by establishing a large cohort of minimally verbal autistic children (aged 4-12 years), tracking their abilities to use speech as well as alternative forms of communication over the course of 3 years. Taking an inclusive transdiagnostic approach, it will include children regardless of their diagnostic status and any co-occurring conditions.\nI will harness parent-gathered data using technology (e.g. smartphones, wearable devices), to maximise participation and obtain a realistic picture of everyday language use. Later phases of the project will use an app to train speech production directly and assess the impact of improved speech on expressive language and broader communication as well as trialling support that aims to maximise use of augmentative and alternative communication forms.\n\n\n\n",
-      "last_modified": "2023-05-05T16:18:10+01:00"
+      "last_modified": "2023-05-05T16:33:58+01:00"
     },
     {
       "path": "news.html",
@@ -26,7 +26,7 @@
       ],
       "date": "`r Sys.Date()`",
       "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2023-05-05T16:18:10+01:00"
+      "last_modified": "2023-05-05T16:33:58+01:00"
     },
     {
       "path": "readings-module1.html",
@@ -34,7 +34,7 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\nText book\nCh1\nafjdskfjklsdjlkas\nCh2\nfdaaajsdlk\nArticles\nvgjhhlh\n\n\n\n",
-      "last_modified": "2023-05-05T16:18:12+01:00"
+      "last_modified": "2023-05-05T16:33:58+01:00"
     },
     {
       "path": "readings-module2.html",
@@ -42,7 +42,7 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2023-05-05T16:18:12+01:00"
+      "last_modified": "2023-05-05T16:34:00+01:00"
     },
     {
       "path": "readings-module3.html",
@@ -50,7 +50,7 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2023-05-05T16:18:12+01:00"
+      "last_modified": "2023-05-05T16:34:01+01:00"
     },
     {
       "path": "readings-module4.html",
@@ -58,7 +58,7 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2023-05-05T16:18:13+01:00"
+      "last_modified": "2023-05-05T16:34:02+01:00"
     }
   ],
   "collections": []
