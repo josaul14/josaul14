@@ -1,7 +1,6 @@
 ---
 title: "Get involved"
-description: |
-  POST-DOCTORAL FELLOWSHIP POSITION WILL BE ANNOUNCED SOON! Watch this space…
+description:
 
 ---
 
