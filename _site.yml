@@ -23,7 +23,7 @@ output:
 #search: true
 
   # logo:
-  #   image: images/ISLaND.png
+  #   image: images/ISLaND.png 
 
     # - text: "Readings"
     #   menu:
