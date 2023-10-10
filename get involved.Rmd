@@ -1,6 +1,7 @@
 ---
 title: "Get involved"
-description:
+description: |
+  Join our Lab!
 
 ---
 
