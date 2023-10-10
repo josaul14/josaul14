@@ -1,0 +1,24 @@
+name: "Jo Saul"
+title: "ISLaND Lab"
+description: |
+  All about our lab!
+output_dir: "docs"
+navbar:
+  search: true
+  logo:
+    image: images/ISLaND.png
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Get involved"
+      href: get-involved.html
+    - text: "Research Environment"
+      href: research-environment.html
+
+output: 
+  distill::distill_article:
+    css: styles.css
+
+#can also do navbar-left

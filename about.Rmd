@@ -8,9 +8,15 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Dr Jo Saul
 
-Dr Jo Saul is the leader of the ISLaND Lab and a Dorothy Hodgkin Research Fellow. She completed her PhD at UCL in 2020, supervised by Professor Courtenay Norbury in UCL's Department of Language and Cognition.
+Dr Jo Saul is the leader of the ISLaND Lab and a Dorothy Hodgkin Research Fellow, funded by the Royal Society. 
 
-Jo is a member of [the LiLaC lab](http://www.lilac-lab.org/).
+She completed her ESRC-funded PhD at UCL in 2020, supervised by Professor Courtenay Norbury in UCL's Department of Language and Cognition. Jo's PhD explored expressive language development in minimally verbal autistic pre-schoolers. She conducted a longitudinal study investigating what predicts individual differences in expressive language development, in particular the role of speech production skills. She also created and piloted an app which delivered a speech sound intervention.
+
+She is interested in individual differences in language development and how language impairment impacts mental health, learning and wellbeing. She is also interested in intervention development and evaluation, particularly in how technology may be able to make interventions more accessible to help those with complex neurodevelopmental conditions. 
+
+Jo has been a member of the [the LiLaC lab](http://www.lilac-lab.org/) since 2016. She is also a member of Autistica’s Language and Communication Study Group.
+
+Jo's teaching responsibilities mainly focus on Research Methods, using the R programming language.
 
 ![](images/Profile.jpg){width=50%}
 
