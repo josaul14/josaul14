@@ -14,9 +14,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Participate in Research
 
-We are currently recruiting 4-12 year old non-speaking/minimally verbal children for the study - here is our flyer. Follow the [link](https://tinyurl.com/SUform1) to register your interest!
+We are currently recruiting 4-12 year old non-speaking/minimally verbal children for the study - here is our flyer. Follow [this link](https://tinyurl.com/SUform1) or use the QR code to register your interest!
 
-![](images/Flyer.pdf){}
+![](images/Flyer.png){width=100%, height=100%}
+
+<br>
 
 ## Join the mailing list
 
