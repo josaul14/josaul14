@@ -17,7 +17,7 @@ This work is supported by a Dorothy Hodgkin Research Fellowship awarded to Dr Jo
 ![](images/ISLaND.png){width=25%}
 <br>
 
-### Elucidating mechanisms of language growth in minimally verbal autistic individuals
+### Elucidating mechanisms of language growth in minimally verbal individuals
 
 Language is a uniquely human achievement which most young children accomplish with ease. However, an estimated 25% of autistic people never develop spoken language, remaining minimally verbal or non-speaking. I want to robustly test theories about mechanisms underpinning these individual differences. 
 
