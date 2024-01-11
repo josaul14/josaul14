@@ -38,6 +38,6 @@ ul > li::marker {
 
 /* Change link appearance */
 d-article a {
-  border-bottom: 2px solid teal;
+  border-bottom: 2px solid #ffd8db;
   text-decoration: none;
 }
