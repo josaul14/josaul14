@@ -12,8 +12,8 @@ navbar:
       href: about.html
     - text: "Get involved"
       href: get-involved.html
-    - text: "Research environment"
-      href: research-environment.html
+    - text: "Links"
+      href: Links.html
 output: 
   distill::distill_article:
     css: styles.css
