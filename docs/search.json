@@ -5,14 +5,14 @@
       "title": "Meet the Team",
       "author": [],
       "contents": "\nDr Jo Saul\nDr Jo Saul is the leader of the ISLaND Lab and a Dorothy Hodgkin Research Fellow, funded by the Royal Society.\nShe completed her ESRC-funded PhD at UCL in 2020, supervised by Professor Courtenay Norbury in UCL’s Department of Language and Cognition. Jo’s PhD explored expressive language development in minimally verbal autistic pre-schoolers. She conducted a longitudinal study investigating what predicts individual differences in expressive language development, in particular the role of speech production skills. She also created and piloted an app which delivered a speech sound intervention.\nJo is interested in individual differences in language development and how language impairment impacts mental health, learning and wellbeing. She is passionate about employing open science practices and robust statistical methods to maximise the quality of her research. As mum to a young person with additional needs, she feels strongly that research should reflect the voices of those with lived experience and thus employs participatory research methods and is keen to empower families to play an active role in research. She is also interested in intervention development and evaluation, particularly in how technology may be able to make interventions more accessible to help those with complex neurodevelopmental conditions.\nJo has been a member of the the LiLaC lab since 2016. She is also a member of Autistica’s Language and Communication Study Group.\n\nView Jo’s CV here\nView her Google Scholar profile here.\nMollie Cooke\nMollie is a research assistant on the project. She recently completed a MSc in Clinical Neurodevelopmental Sciences at Kings’ College London and prior to that worked for several years in the voluntary sector providing information, support and advocacy to parents, carers and young people with additional needs. Mollie also has a loved one with complex support needs and she is passionate about including non-speaking and minimially verbal people in research.\nUndergraduate students\nWe are lucky to be joined by four amazing undergraduate students this year from the BSc, MSci Psychologyn and BSc Psychology and Language Sciences courses. They are doing a great job of coding communicative acts in our video data and supporting our data collection efforts.\nOliver\n\n### Saamia\nNatalie\nSupipi\nSteering group\nx\nJoin us!\nWe hope to grow the lab steadily over the next few years - head to Get involved to find out about potential opportunities to join us or collaborate.\n\n\n\n",
-      "last_modified": "2024-01-11T10:13:29+00:00"
+      "last_modified": "2024-01-11T10:16:46+00:00"
     },
     {
       "path": "index.html",
       "title": "ISLaND Lab",
       "author": [],
       "contents": "\nWhat is Project ISLaND?\nThis project will investigate the prevalence and significance of speech-motor planning difficulties in neurodevelopmental conditions like autism, and how they relate to expressive language development. This will help us understand why some neurodivergent people have difficulty acquiring oral communication skills, and how best to support them.\nThis work is supported by a Dorothy Hodgkin Research Fellowship awarded to Dr Jo Saul in November 2022: link here.\n\nElucidating mechanisms of language growth in minimally verbal individuals\nLanguage is a uniquely human achievement which most young children accomplish with ease. However, an estimated 25% of autistic people never develop spoken language, remaining minimally verbal or non-speaking. I want to robustly test theories about mechanisms underpinning these individual differences.\nEmerging research hypothesises that speech-motor planning deficits (apraxia) may form an additional barrier to oral communication for some autistic people. I will test this by establishing a large cohort of minimally verbal autistic children (aged 4-12 years), tracking their abilities to use speech as well as alternative forms of communication over the course of 3 years. Taking an inclusive transdiagnostic approach, it will include children regardless of their diagnostic status and any co-occurring conditions.\nI will harness parent-gathered data using technology (e.g. smartphones, wearable devices), to maximise participation and obtain a realistic picture of everyday language use. Later phases of the project will use an app to train speech production directly and assess the impact of improved speech on expressive language and broader communication as well as trialling support that aims to maximise use of augmentative and alternative communication forms.\n\n\n\n",
-      "last_modified": "2024-01-11T10:13:31+00:00"
+      "last_modified": "2024-01-11T10:16:48+00:00"
     },
     {
       "path": "news.html",
@@ -26,7 +26,7 @@
       ],
       "date": "`r Sys.Date()`",
       "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2024-01-11T10:13:32+00:00"
+      "last_modified": "2024-01-11T10:16:48+00:00"
     },
     {
       "path": "readings-module1.html",
@@ -34,7 +34,7 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\nText book\nCh1\nafjdskfjklsdjlkas\nCh2\nfdaaajsdlk\nArticles\nvgjhhlh\n\n\n\n",
-      "last_modified": "2024-01-11T10:13:32+00:00"
+      "last_modified": "2024-01-11T10:16:49+00:00"
     },
     {
       "path": "readings-module2.html",
@@ -42,7 +42,7 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2024-01-11T10:13:33+00:00"
+      "last_modified": "2024-01-11T10:16:50+00:00"
     },
     {
       "path": "readings-module3.html",
@@ -50,7 +50,7 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2024-01-11T10:13:34+00:00"
+      "last_modified": "2024-01-11T10:16:51+00:00"
     },
     {
       "path": "readings-module4.html",
@@ -58,7 +58,7 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2024-01-11T10:13:35+00:00"
+      "last_modified": "2024-01-11T10:16:52+00:00"
     }
   ],
   "collections": []

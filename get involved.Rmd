@@ -1,7 +1,6 @@
 ---
 title: "Get involved"
-description: |
-  Join our Lab!
+
 
 ---
 
@@ -17,7 +16,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 We are currently recruiting 4-12 year old non-speaking/minimally verbal children for the study - here is our flyer. Follow the [link](https://tinyurl.com/SUform1) to register your interest!
 
-![](images/Flyer.pdf){width=100%}
+![](images/Flyer.pdf){}
 
 ## Join the mailing list
 
