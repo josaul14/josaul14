@@ -10,6 +10,8 @@ navbar:
       href: index.html
     - text: "Meet the team"
       href: about.html
+    - text: "Steering Group"
+      href: Steering.html
     - text: "Get involved"
       href: get-involved.html
     - text: "Links"
