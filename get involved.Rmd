@@ -12,14 +12,6 @@ knitr::opts_chunk$set(echo = FALSE)
 # ::: {style="display: block;"}
 ```
 
-## Participate in Research
-
-We are currently recruiting 4-12 year old non-speaking/minimally verbal children for the study - here is our flyer. Follow [this link](https://tinyurl.com/SUform1) or use the QR code to register your interest!
-
-![](images/Flyer.png){width=100%, height=100%}
-
-<br>
-
 ## Join the mailing list
 
 If you are the parent/caregiver of a minimally verbal / non-speaking person, a school, clinic, researcher or charity or anybody else with interest in my research, please [join the mailing list](https://qualtrics.ucl.ac.uk/jfe/form/SV_eKFsRuePNDwuk8C). 
