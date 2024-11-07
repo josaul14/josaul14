@@ -16,6 +16,8 @@ navbar:
       href: get-involved.html
     - text: "Links"
       href: Links.html
+    - text: "News"
+      href: Updates.html
 output: 
   distill::distill_article:
     css: styles.css

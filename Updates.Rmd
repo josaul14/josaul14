@@ -1,0 +1,11 @@
+---
+title: "Updates"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## News
+
+![](images/Oct24news.png){width=100%}
